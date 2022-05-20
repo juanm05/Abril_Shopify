@@ -1,0 +1,129 @@
+day,location_region,location_city,total_visitors,total_sessions
+2022-04-14,Iowa,Council Bluffs,1,1
+2022-04-14,,,2,2
+2022-04-15,,,1,1
+2022-04-15,Iowa,Council Bluffs,2,2
+2022-04-16,Iowa,Council Bluffs,2,2
+2022-04-16,,,43,43
+2022-04-17,Mexico City,Iztapalapa,1,1
+2022-04-17,Jalisco,Zapopan,1,1
+2022-04-17,,,4,4
+2022-04-17,Iowa,Council Bluffs,2,2
+2022-04-17,Durango,Durango,1,1
+2022-04-17,Guanajuato,Guanajuato City,1,1
+2022-04-18,Guanajuato,León,2,2
+2022-04-18,Jalisco,Guadalajara,2,2
+2022-04-18,Michoacán,Morelia,1,1
+2022-04-19,Baja California,Tijuana,5,5
+2022-04-19,Iowa,Council Bluffs,7,7
+2022-04-19,Nuevo León,Monterrey,1,1
+2022-04-19,Guanajuato,León,2,2
+2022-04-19,,,1,1
+2022-04-19,Jalisco,Zapopan,1,1
+2022-04-19,Jalisco,Guadalajara,1,1
+2022-04-20,Iowa,Council Bluffs,6,6
+2022-04-20,Nuevo León,Monterrey,1,1
+2022-04-20,Guanajuato,León,1,1
+2022-04-20,Durango,Durango,1,1
+2022-04-20,,,8,8
+2022-04-20,Baja California,Tijuana,2,2
+2022-04-20,Jalisco,Zapopan,1,1
+2022-04-21,Jalisco,Guadalajara,1,1
+2022-04-21,Guanajuato,León,5,7
+2022-04-21,Jalisco,Lagos de Moreno,1,1
+2022-04-21,Jalisco,Zapopan,1,1
+2022-04-21,,,1,1
+2022-04-21,Quintana Roo,Playa del Carmen,1,1
+2022-04-21,Baja California,Tijuana,2,2
+2022-04-21,Iowa,Council Bluffs,6,6
+2022-04-22,Iowa,Council Bluffs,2,2
+2022-04-22,,,2,2
+2022-04-22,Guanajuato,León,5,5
+2022-04-22,Baja California,Tijuana,1,1
+2022-04-22,Nuevo León,Monterrey,2,4
+2022-04-22,Jalisco,Guadalajara,3,3
+2022-04-23,Iowa,Council Bluffs,2,2
+2022-04-23,,,1,1
+2022-04-23,Guanajuato,San Francisco del Rincón,1,1
+2022-04-23,Guanajuato,León,2,2
+2022-04-24,,,2,2
+2022-04-24,Iowa,Council Bluffs,1,1
+2022-04-25,Iowa,Council Bluffs,3,3
+2022-04-26,Iowa,Council Bluffs,3,3
+2022-04-27,Iowa,Council Bluffs,2,2
+2022-04-27,,,1,1
+2022-04-28,Iowa,Council Bluffs,3,3
+2022-04-29,Baja California,Tijuana,1,1
+2022-04-29,Iowa,Council Bluffs,3,3
+2022-04-29,,,1,1
+2022-04-30,,,1,1
+2022-04-30,Iowa,Council Bluffs,2,2
+2022-05-01,,,0,0
+2022-05-02,Guanajuato,Guanajuato City,1,1
+2022-05-02,Iowa,Council Bluffs,6,6
+2022-05-02,Nuevo León,San Nicolás de los Garza,1,1
+2022-05-02,,,4,4
+2022-05-02,Guanajuato,León,1,1
+2022-05-03,Nuevo León,Monterrey,1,1
+2022-05-03,Baja California,Tijuana,2,2
+2022-05-03,Iowa,Council Bluffs,5,5
+2022-05-03,,,7,7
+2022-05-04,Iowa,Council Bluffs,1,1
+2022-05-04,,,3,3
+2022-05-04,British Columbia,Vancouver,1,1
+2022-05-05,Baja California,Tijuana,1,1
+2022-05-05,Guanajuato,León,1,1
+2022-05-05,Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,1,1
+2022-05-05,Mexico City,Iztapalapa,1,1
+2022-05-05,Guanajuato,Guanajuato City,1,1
+2022-05-05,,,1,1
+2022-05-06,Jalisco,Guadalajara,2,2
+2022-05-06,Guanajuato,Yuriria,1,1
+2022-05-06,,,2,2
+2022-05-06,Iowa,Council Bluffs,1,1
+2022-05-06,Baja California,Tijuana,4,4
+2022-05-06,Querétaro,Querétaro City,2,2
+2022-05-07,Jalisco,Guadalajara,2,2
+2022-05-07,Querétaro,Querétaro City,1,1
+2022-05-07,Baja California,Tijuana,5,5
+2022-05-07,Iowa,Council Bluffs,2,2
+2022-05-07,Guanajuato,León,1,1
+2022-05-08,Guanajuato,San Miguel de Allende,1,1
+2022-05-08,Baja California,Tijuana,4,4
+2022-05-08,Jalisco,Zapopan,1,1
+2022-05-08,Guanajuato,León,1,1
+2022-05-08,Mexico City,Puebla,1,1
+2022-05-08,Querétaro,Querétaro City,1,1
+2022-05-08,Iowa,Council Bluffs,4,4
+2022-05-08,,,2,2
+2022-05-08,Jalisco,Guadalajara,1,1
+2022-05-09,Guanajuato,Cortazar,1,1
+2022-05-09,Baja California,Tijuana,3,3
+2022-05-09,Iowa,Council Bluffs,1,1
+2022-05-09,Guanajuato,Irapuato,1,1
+2022-05-09,Guanajuato,León,2,2
+2022-05-09,,,3,3
+2022-05-09,Jalisco,Guadalajara,1,1
+2022-05-10,Durango,Durango,1,1
+2022-05-10,Guanajuato,León,1,1
+2022-05-10,Guanajuato,Celaya,1,1
+2022-05-10,Baja California,Tijuana,1,1
+2022-05-10,Mexico City,Mexico City,1,1
+2022-05-10,Michoacán,Morelia,1,1
+2022-05-11,Baja California,Tijuana,1,1
+2022-05-11,Iowa,Council Bluffs,3,3
+2022-05-12,Iowa,Council Bluffs,2,2
+2022-05-12,,,3,3
+2022-05-12,Baja California,Tijuana,1,1
+2022-05-13,,,2,2
+2022-05-13,Iowa,Council Bluffs,4,4
+2022-05-14,British Columbia,Vancouver,1,1
+2022-05-15,Baja California,Tijuana,1,1
+2022-05-15,Iowa,Council Bluffs,3,3
+2022-05-16,,,0,0
+2022-05-17,,,2,2
+2022-05-17,Iowa,Council Bluffs,1,1
+2022-05-18,,,3,3
+2022-05-18,Iowa,Council Bluffs,3,3
+2022-05-19,,,0,0
+2022-05-20,,,0,0
